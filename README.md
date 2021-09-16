@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/eduardo-lemos-778189151/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-- 🔭 I’m currently working with Python, ReactJS, Node, JAVA.
-- 🌱 I’m currently learning serverless approaches and AWS usages.
+- 🔭 I’m currently working with Python, ReactJS, Node, JAVA and AWS Lambda.
+- 🌱 I’m currently learning serverless approaches (AWS).
 - 📫 How to reach me: eglemos@outlook.com
 - 😄 Pronouns: He/His
