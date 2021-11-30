@@ -1,4 +1,4 @@
-## Yooo! My name is Eduardo Lemos and i'm a back-end developer at L2Code
+## Yooo! My name is Eduardo Lemos and i'm a back-end developer at Thoughtworks Brazil
  <div>
   <a href="https://github.com/eglemos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eglemos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
