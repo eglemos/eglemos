@@ -21,6 +21,6 @@
 </div>
 
 - 🔭 I’m currently working with JAVA, Spring Boot and Kafka.
-- 🌱 I’m currently learning Kotlin.
+- 🌱 I’m currently learning Blockchain, P2P and Smart contracts.
 - 📫 How to reach me: eglemos@outlook.com
 - 😄 Pronouns: Ele | He | Él
